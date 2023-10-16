@@ -1,0 +1,12 @@
+Begin Logging:
+count,  constant,      OS Name,                  Laptop Ver,  Name,   Memory,       Disk, OS Ver
+0.5  ,  constant,  Windows x64, Blade 14 (2022) - RZ09-0427,  Mine,  5179840,  269803544, 10.0.22621
+1    ,  constant,  Windows x64, Blade 14 (2022) - RZ09-0427,  Mine,  5179840,  269803544, 10.0.22621
+1.5  ,  constant,  Windows x64, Blade 14 (2022) - RZ09-0427,  Mine,  5183880,  269803544, 10.0.22621
+2    ,  constant,  Windows x64, Blade 14 (2022) - RZ09-0427,  Mine,  5178052,  269803544, 10.0.22621
+2.5  ,  constant,  Windows x64, Blade 14 (2022) - RZ09-0427,  Mine,  5178052,  269803540, 10.0.22621
+3    ,  constant,  Windows x64, Blade 14 (2022) - RZ09-0427,  Mine,  5178932,  269803540, 10.0.22621
+3.5  ,  constant,  Windows x64, Blade 14 (2022) - RZ09-0427,  Mine,  5178932,  269803536, 10.0.22621
+4    ,  constant,  Windows x64, Blade 14 (2022) - RZ09-0427,  Mine,  5184244,  269803536, 10.0.22621
+4.5  ,  constant,  Windows x64, Blade 14 (2022) - RZ09-0427,  Mine,  5178168,  269803536, 10.0.22621
+5    ,  constant,  Windows x64, Blade 14 (2022) - RZ09-0427,  Mine,  5178168,  269803536, 10.0.22621
